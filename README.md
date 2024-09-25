@@ -1,6 +1,6 @@
 # repository1
 
-##editing the data
+## editing the data
 
 First Repository, IBM Data Science
 
